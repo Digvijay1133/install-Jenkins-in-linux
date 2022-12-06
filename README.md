@@ -1,1 +1,0 @@
-# install-Jenkins-in-linux
